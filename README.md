@@ -1,5 +1,6 @@
 # Learning to Run a Power Network
-https://competitions.codalab.org/competitions/20767
+*   Competition website: https://l2rpn.chalearn.org/competitions
+*   Presentation video on ICJNN 2019: https://drive.google.com/file/d/1W-IVlElrHk17Y249_3SeQBg1_IraRyLa/view
 
 ## Pypownet Installation
 ### Requirements:
